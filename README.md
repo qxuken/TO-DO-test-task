@@ -10,7 +10,7 @@ Can be found here: https://www.figma.com/file/TqDBGoVZykTe9Bn77zdHu5ft/To-do-tes
 
 ## Expected steps
 
-You are suggested to clone this repo and then implement HTML/JSX markup according to design above and a single page application based on React+Redux. Application should be running on a project root (`/`). The sample data to use inside application should be taken using AJAX calls.
+You are suggested to fork this repo and then implement HTML/JSX markup according to design above and a single page application based on React+Redux. Application should be running on a project root (`/`). The sample data to use inside application should be taken using AJAX calls.
 
 Api documentation can be found here: https://app.swaggerhub.com/apis/qxlab/dummy-todo/1.1.0
 
