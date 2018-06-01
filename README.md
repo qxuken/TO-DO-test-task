@@ -14,8 +14,6 @@ You are suggested to clone this repo and then implement HTML/JSX markup accordin
 
 Api documentation can be found here: https://app.swaggerhub.com/apis/qxlab/dummy-todo/1.1.0
 
-Api endpoint: https://qdummy-todo.herokuapp.com/api/
-
 All requests requre the (`Authorization`) token in the headers which can be obtained here: https://qdummy-todo.herokuapp.com/
 
 Please note, the default app state contains all tasks. When user starts typing, the results should be filtered in realtime, highlighting the matching string.
