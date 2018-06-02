@@ -1,6 +1,6 @@
 # TO-DO test task app
 
-You are suggested to implement a simple to-do application using express, webpacker, React + Redux. Expected technologies used are: ES6, CSS (with any pre/post processors).
+You are suggested to implement a simple to-do application using express, webpack, React + Redux. Expected technologies used are: ES6, CSS (with any pre/post processors).
 
 ## Layout design
 
